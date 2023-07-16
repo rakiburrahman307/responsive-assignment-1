@@ -732,3 +732,215 @@ img {
 
     }
 }
+
+@media screen and (min-width:576px) and (max-width:960px) {
+    .header-container {
+        height: auto;
+        padding-bottom: 2rem;
+        width: 100%;
+        background-image: none;
+
+
+    }
+
+
+    .header-content {
+        padding-top: 1rem;
+    }
+
+    .header-title {
+        text-align: left;
+        width: 100%;
+        height: auto;
+        font-size: 3.5rem;
+    }
+
+    .header-description {
+        font-size: 1rem;
+        width: 100%;
+        height: auto;
+        margin: 32px 0px;
+    }
+
+    .feature-text a {
+        margin-bottom: 5rem;
+    }
+
+
+
+    .featured-flowers-img-1 .img-1,
+    .featured-flowers-img-2 .img-2,
+    .featured-flowers-img-3 .img-3 {
+        width: 100%;
+        height: 100%;
+    }
+
+    .featured-flowers-img-1,
+    .featured-flowers-img-2,
+    .featured-flowers-img-3 {
+        width: 70%;
+        height: 538px;
+        margin: auto;
+        margin-bottom: 2rem;
+    }
+
+    .featured-flowers-boxes {
+        flex-direction: column;
+    }
+
+    .featured-flowers-title {
+        font-size: 2rem;
+
+    }
+
+    .featured-flowers-description {
+        width: 80%;
+        height: 100%;
+    }
+
+    .featured-flowers-content {
+        align-items: center;
+        width: 100%;
+    }
+
+    .icon {
+        height: auto;
+    }
+
+
+
+
+    .icon-content-box {
+        text-align: center;
+        padding: 3rem 2.5rem;
+    }
+
+    .icon-content-box img {
+        width: 88px;
+        height: 88px;
+    }
+
+    .icon-content-box p {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: clip;
+    }
+
+
+
+    .hot-deal-title {
+        font-size: 1.6rem;
+        text-align: center;
+    }
+
+    .bg-image {
+        width: 50%;
+        height: 50%;
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .btn-sing-up {
+        width: 20%;
+        height: auto;
+        margin-left: 40%;
+    }
+
+    .hot-deal-description {
+        width: 100%;
+        height: 100%;
+    }
+
+    .hot-deal-content {
+        width: 100%;
+        margin-top: 35rem;
+        padding: 0;
+        padding-bottom: 10%;
+    }
+
+    .hot-deal-container {
+        flex-direction: column;
+    }
+
+    .instagram-title {
+        font-size: 2rem;
+    }
+
+    .instagram-description {
+        width: 100%;
+        height: auto;
+    }
+
+    .latest-deal-container {
+        width: 100%;
+        margin-bottom: 30%;
+    }
+
+    .latest-deal {
+        width: 100%;
+        height: auto;
+        margin: auto;
+        padding-top: 10%;
+        padding-bottom: 10%;
+    }
+
+    .form-content {
+        margin-left: 4.5rem;
+
+    }
+
+    .latest-deal-title {
+
+        font-size: 2rem;
+    }
+
+    .form-content input {
+        width: 90%;
+        height: 3rem;
+        text-align: center;
+        border: none;
+        margin-right: none;
+        margin-bottom: 1rem;
+    }
+
+    .btn-sub {
+        width: 20%;
+        height: 3rem;
+        margin-left: 35%;
+        margin-bottom: 1rem;
+
+    }
+
+    .extra-title {
+        font-size: 2rem;
+    }
+
+    .extra-content {
+        text-align: center;
+        padding-top: 20%;
+        padding-left: 1%;
+    }
+
+    .extra-description {
+        width: 100%;
+        height: auto;
+        margin: auto;
+    }
+
+    .footer-content {
+        padding-top: 20%;
+
+    }
+
+    .footer-description {
+        width: 100%;
+        height: auto;
+    }
+
+    .copy-description {
+        width: 100%;
+        height: auto;
+
+    }
+}
