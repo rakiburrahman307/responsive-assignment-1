@@ -739,26 +739,27 @@ img {
         height: auto;
         padding-bottom: 2rem;
         width: 100%;
-        background-image: none;
+        background-image: url("/images/pngwing\ 10.png");
+        background-size: 400px;
 
 
     }
 
 
     .header-content {
-        padding-top: 1rem;
+        padding-top: 5rem;
     }
 
     .header-title {
         text-align: left;
-        width: 100%;
+        width: 65%;
         height: auto;
-        font-size: 3.5rem;
+        font-size: 3.0rem;
     }
 
     .header-description {
         font-size: 1rem;
-        width: 100%;
+        width: 60%;
         height: auto;
         margin: 32px 0px;
     }
